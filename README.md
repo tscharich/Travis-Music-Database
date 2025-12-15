@@ -1,20 +1,24 @@
-<style type="text/css">
+<div align="center">
+<img src="scripts-cdn/logos/tmdb-badge.svg" alt="drawing" width="500"/>
 
-    body {
-        display: flex;
-    }
+---
 
-    .head-logo {
-        margin: 0;
-        padding: 0;
-    }
-</style>
+<div id="toc"><ul style="list-style: none"><summary><h1><a href="https://travis-music-database.appwrite.network/">Travis's Music Database</a></h1></summary></ul></div>
 
-<body>
-<img class="head-logo" src="scripts-cdn/logos/tmdb-badge.svg" alt="drawing" width="150"/>
-
-# [Travis-Music-Database](https://travis-music-database.appwrite.network/)
 A database of my music, music I listen to, and music in general.
+
+![GitHub branch status](https://img.shields.io/github/checks-status/tscharich/Travis-Music-Database/main)
+![GitHub contributors](https://img.shields.io/github/contributors/tscharich/Travis-Music-Database)
+![GitHub Repo stars](https://img.shields.io/github/stars/tscharich/Travis-Music-Database?style=flat)
+![GitHub watchers](https://img.shields.io/github/watchers/tscharich/Travis-Music-Database?style=flat)
+
+<br>
+
+---
+
+<br>
+
+</div>
 
 This site is a work in progress...
 
@@ -45,7 +49,7 @@ See where music is popular over time.
 APIs for accessing the information below...
 - Aggregate listening data/statistics
 - Authenticated User Data
-- Easy Links & Access to other platforms links and content ids
+- Easy Links & Access to other platforms' links and item IDs
 - Synced Lyrics
 - Geographic Data
 - Music Analysis
@@ -65,4 +69,3 @@ Authenticated Data may cost money depending on how it is used; however, it is al
 APIs will work well with other APIs such as Spotify, Apple Music, and MusicBrainz.
 
 All data that we display using other APIs will not be available through our API; however, you can use our API and its documentation to figure out how to access this info using these APIs yourself.
-</body>
