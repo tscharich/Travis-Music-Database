@@ -1,3 +1,18 @@
+<style type="text/css">
+
+    body {
+        display: flex;
+    }
+
+    .head-logo {
+        margin: 0;
+        padding: 0;
+    }
+</style>
+
+<body>
+<img class="head-logo" src="scripts-cdn/logos/tmdb-badge.svg" alt="drawing" width="150"/>
+
 # [Travis-Music-Database](https://travis-music-database.appwrite.network/)
 A database of my music, music I listen to, and music in general.
 
@@ -12,7 +27,7 @@ A way to look at popular music throughout the years.
 An easy way to share links that will show multiple places to listen to songs and see artists and albums.
 
 ## Listening Statistics
-Ways to views your listening statistics and/or share them with the world or just friends . And also a way to view aggregate music data from all our users.
+Ways to view your listening statistics and/or share them with the world or just friends. And also a way to view aggregate music data from all our users.
 
 ## Music Details
 A way to see a lot of details about songs, artists, and albums.
@@ -37,7 +52,7 @@ APIs for accessing the information below...
 - Importing Authenticated User Music Data
 
 
-All of this for free except for APIs.
+All of this is free except for APIs.
 
 APIs are free for non-commercial use.
 
@@ -47,6 +62,7 @@ Synced Lyrics API is always free.
 
 Authenticated Data may cost money depending on how it is used; however, it is always free for non-commercial use.
 
-APIs will work well with other APIs such and Spotify, Apple Music, and MusicBrainz.
+APIs will work well with other APIs such as Spotify, Apple Music, and MusicBrainz.
 
-All data that we display using other APIs will not be available through our API; however, you can use our API and its documentation to figure how to access this info using these APIs yourself.
+All data that we display using other APIs will not be available through our API; however, you can use our API and its documentation to figure out how to access this info using these APIs yourself.
+</body>
